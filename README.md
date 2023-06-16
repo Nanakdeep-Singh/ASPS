@@ -1,1 +1,0 @@
-# Nanakdeep-Singh.github.io
