@@ -1,4 +1,4 @@
-import Input from "@/app/components/forms/Input"
+
 import Link from "next/link"
 
 export default function Page() {
