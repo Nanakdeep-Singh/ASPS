@@ -16,8 +16,8 @@ export default function Navbar() {
             <Link className="h-full px-6 text-lg" href="#" >Blogs</Link>
         </div>
         <div className="grow flex justify-end items-center">
-        <Link className="h-full px-6 text-lg  text-purple-500 hover:text-purple-800 dark:text-emerald-300 dark:hover:text-emerald-500" href="/login">Sign in</Link>
-        <Link className="h-full px-6 text-lg text-purple-500 hover:text-purple-800 dark:text-emerald-300 dark:hover:text-emerald-500" href="#">Register</Link>
+        <Link className="h-full px-6 text-lg  text-purple-500 hover:text-purple-800 dark:text-emerald-300 dark:hover:text-emerald-500" href="/auth/login">Sign in</Link>
+        <Link className="h-full px-6 text-lg text-purple-500 hover:text-purple-800 dark:text-emerald-300 dark:hover:text-emerald-500" href="/auth/signup">Register</Link>
         <div className=" px-6">
         <ThemeToggle></ThemeToggle>
         </div>
